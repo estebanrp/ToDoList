@@ -1,4 +1,4 @@
-import mTask from '../models/mTasks.js'
+import mTask from '../models/mTask.js'
 
 const cTasks = {
     getAll: () => {
